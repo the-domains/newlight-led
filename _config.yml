@@ -1,0 +1,14 @@
+layout_spectrum: 0.6199994834605604
+typography_spectrum: 0.7175259157083929
+color:
+  brandStrength: 0.9486735481768847
+  lightness: 0.7072792465332896
+  saturation: 0.4362830840982497
+  rhythmicContrast: 0.31031537614762783
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: Newlight LED

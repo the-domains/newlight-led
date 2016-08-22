@@ -6,9 +6,9 @@ color:
   saturation: 0.4362830840982497
   rhythmicContrast: 0.31031537614762783
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#040404'
+    - '#FDA400'
+    - '#FEE101'
+    - '#CA7000'
+    - '#FEFEFE'
 name: Newlight LED
